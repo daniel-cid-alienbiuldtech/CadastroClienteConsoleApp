@@ -1,0 +1,14 @@
+C:\Users\eletr\OneDrive\Área de Trabalho\Coti-C# Web Developer\Aula01\Projeto01\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.exe
+C:\Users\eletr\OneDrive\Área de Trabalho\Coti-C# Web Developer\Aula01\Projeto01\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.deps.json
+C:\Users\eletr\OneDrive\Área de Trabalho\Coti-C# Web Developer\Aula01\Projeto01\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.runtimeconfig.json
+C:\Users\eletr\OneDrive\Área de Trabalho\Coti-C# Web Developer\Aula01\Projeto01\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.runtimeconfig.dev.json
+C:\Users\eletr\OneDrive\Área de Trabalho\Coti-C# Web Developer\Aula01\Projeto01\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.dll
+C:\Users\eletr\OneDrive\Área de Trabalho\Coti-C# Web Developer\Aula01\Projeto01\Projeto01\bin\Debug\netcoreapp3.1\Projeto01.pdb
+C:\Users\eletr\OneDrive\Área de Trabalho\Coti-C# Web Developer\Aula01\Projeto01\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.csproj.AssemblyReference.cache
+C:\Users\eletr\OneDrive\Área de Trabalho\Coti-C# Web Developer\Aula01\Projeto01\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eletr\OneDrive\Área de Trabalho\Coti-C# Web Developer\Aula01\Projeto01\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.AssemblyInfoInputs.cache
+C:\Users\eletr\OneDrive\Área de Trabalho\Coti-C# Web Developer\Aula01\Projeto01\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.AssemblyInfo.cs
+C:\Users\eletr\OneDrive\Área de Trabalho\Coti-C# Web Developer\Aula01\Projeto01\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.csproj.CoreCompileInputs.cache
+C:\Users\eletr\OneDrive\Área de Trabalho\Coti-C# Web Developer\Aula01\Projeto01\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.dll
+C:\Users\eletr\OneDrive\Área de Trabalho\Coti-C# Web Developer\Aula01\Projeto01\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.pdb
+C:\Users\eletr\OneDrive\Área de Trabalho\Coti-C# Web Developer\Aula01\Projeto01\Projeto01\obj\Debug\netcoreapp3.1\Projeto01.genruntimeconfig.cache
